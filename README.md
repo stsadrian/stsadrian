@@ -1,20 +1,19 @@
-# Olá! Eu sou o Adrian 👋
-
-![Kite de Hunter x Hunter programando](./kite-programando.png)
+# Olá! Eu sou o Adrian 
+![Kite](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw_nkJ5el5Z_W0g7TRwN12fot8zCH70Vi2YmRmip2geZgRruCwnAVftBw&s=10)
 
 
 Tenho **18 anos** e estou estudando programação.
 
-### 🐍 Sobre mim
+###  Sobre mim
 
-- 👨‍💻 Meu nome é **Adrian**
-- 🎂 Tenho **18 anos**
-- 🐍 Atualmente estou no **2º módulo de Python**
-- 📚 Sempre buscando aprender e evoluir na programação
+-  Meu nome é **Adrian**
+-  Tenho **18 anos**
+-  Atualmente estou no **2º módulo de Python**
+-  Sempre buscando aprender e evoluir na programação
 
-### 🚀 Atualmente estudando**
+###  Atualmente estudando
 
-- Python 🐍
+- Python 
 - Git e GitHub
 - Lógica de programação
 - Desenvolvimento Web
