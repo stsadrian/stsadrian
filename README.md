@@ -9,7 +9,7 @@
 -  Atualmente estou no **2º módulo de Python**
 -  Sempre buscando aprender e evoluir na programação
 -  Gosto de jogar volei
--  Pretendo segui na area de cybersegurança
+-  Pretendo seguir na area de cibersegurança
 
 ###  Atualmente estudando
 
