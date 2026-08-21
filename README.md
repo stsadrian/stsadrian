@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Olá+curioso(as)!+de+programa,+bem+vindos+ao+meu perfil%22+))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Olá+curioso(as)!+de+programa,+bem+vindos+ao+meu+perfil%22+))](https://git.io/typing-svg)
 # Olá! Eu sou o Adrian 
-![Kite](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw_nkJ5el5Z_W0g7TRwN12fot8zCH70Vi2YmRmip2geZgRruCwnAVftBw&s=10)
+![Kite](https://animesher.com/orig/1/189/1898/18980/animesher.com_fantasy-kite-white-hair-1898076.gif)
 
 
 ###  Sobre mim
