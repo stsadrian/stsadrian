@@ -12,7 +12,9 @@ Tenho **18 anos** e estou estudando programação.
 - 🐍 Atualmente estou no **2º módulo de Python**
 - 📚 Sempre buscando aprender e evoluir na programação
 
-### 🚀 Atualmente estudando
+### 🚀 Atualmente estudando**
 
-```python
-Python
+- Python 🐍
+- Git e GitHub
+- Lógica de programação
+- Desenvolvimento Web
